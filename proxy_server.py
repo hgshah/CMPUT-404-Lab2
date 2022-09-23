@@ -1,4 +1,4 @@
-# reference taken from lab code presented in the class
+# reference taken from lab code presented in the class - TA Hassnain 
 #!/usr/bin/env python3
 from multiprocessing.dummy import Process
 from operator import truediv
